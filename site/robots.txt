@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://christophegauld.github.io/classer-la-folie/sitemap.xml
