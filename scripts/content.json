@@ -1,0 +1,983 @@
+{
+  "lessons": [
+    {
+      "slug": "introduction",
+      "number": "",
+      "chapter": "Introduction",
+      "pages": "13–17",
+      "group": "introduction",
+      "title": "Symptômes, catégories et contexte social",
+      "short": "Introduction",
+      "kicker": "Introduction",
+      "intro": "L’ouvrage part d’une situation clinique pour examiner les relations entre la souffrance vécue, les catégories diagnostiques et les contextes sociaux dans lesquels elles sont mobilisées.",
+      "sections": [
+        {
+          "title": "Une question issue de la clinique",
+          "paragraphs": [
+            "L’introduction décrit des adolescentes qui utilisent le vocabulaire du trouble dissociatif de l’identité pour présenter leur souffrance. Ce vocabulaire circule notamment dans des communautés en ligne. L’auteur s’intéresse à la façon dont des catégories médicales, des récits personnels et des formes de reconnaissance collective participent à la description de l’expérience. Cette observation est le point de départ d’une réflexion sur la sémiologie et les classifications. (pp. 13–15)",
+            "L’appartenance à une communauté ou l’usage d’une catégorie disponible ne suffit pas à mettre en doute la souffrance exprimée. Le livre distingue la réalité de cette souffrance, la manière dont elle est formulée et les modèles utilisés pour la comprendre. La question clinique porte sur leur articulation, dans une histoire et dans un contexte particuliers. (pp. 14–15)"
+          ]
+        },
+        {
+          "quote": "Cette appartenance n’enlève rien à la souffrance, à la dissociation et à l’anxiété qu’elles expriment.",
+          "page": 14
+        },
+        {
+          "title": "Définir, expliquer et soigner",
+          "paragraphs": [
+            "La [[semiologie|sémiologie]] décrit et interprète les manifestations cliniques. La [[nosologie|nosologie]] étudie la manière de définir et d’organiser les troubles. Ces activités sont liées, mais elles ne se confondent pas : décrire une expérience, lui attribuer un nom diagnostique et en proposer une explication constituent des opérations différentes.",
+            "La philosophie de la psychiatrie examine les concepts, les méthodes et les valeurs qui interviennent dans ces opérations. L’ouvrage pose notamment les questions suivantes : dans quelles conditions un symptôme se stabilise-t-il ? Comment articuler des explications biologiques, psychologiques et sociologiques ? Quel rôle jouent les attentes institutionnelles et les récits des patients dans l’acte diagnostique ? (p. 16)"
+          ]
+        },
+        {
+          "title": "Les deux parties de l’ouvrage",
+          "paragraphs": [
+            "La première partie étudie les classifications psychiatriques, les pluralismes, l’économie des promesses et la sémiologie. Elle examine la façon dont la psychiatrie organise ses connaissances et leurs usages, ainsi que les conséquences de ces choix pour le soin. Les termes spécialisés sont définis dans les chapitres et dans le lexique. (pp. 16–17)",
+            "La deuxième partie porte sur quatre cadres : les systèmes dynamiques pour les trajectoires temporelles, les réseaux pour les interactions entre symptômes, le codage prédictif pour les processus de perception et d’anticipation, et l’intelligence artificielle pour l’analyse du raisonnement clinique. Le livre discute leurs propositions, leurs conditions d’usage et leurs limites. La conclusion traite des dimensions sociales, culturelles et environnementales de la psychiatrie. (p. 17)"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "classer",
+      "title": "La diversité des classifications psychiatriques",
+      "short": "Classifications psychiatriques",
+      "group": "fondements",
+      "chapter": "Chapitre I",
+      "pages": "21–37",
+      "kicker": "Perspective nosologique",
+      "intro": "Le chapitre I examine la diversité des classifications psychiatriques en fonction de leurs principes et de leurs usages. Il distingue les approches catégorielles, les modèles de stadification, la taxonomie hiérarchique HiTOP et le cadre de recherche RDoC.",
+      "sections": [
+        {
+          "title": "Nosographie, nosologie et description clinique",
+          "paragraphs": [
+            "Pour classer, il faut d’abord choisir ce que l’on observe. Dans une consultation, on retient certains éléments du récit, on les décrit et on les met en relation. La [[nosographie|nosographie]] désigne l’organisation descriptive des troubles ; la [[nosologie|nosologie]] interroge plus largement les principes selon lesquels on les distingue et les classe. Ces opérations s’appuient sur la sémiologie, qui décrit et interprète les manifestations cliniques.",
+            "Les classifications rendent des services : elles fournissent des repères partagés, facilitent la communication et permettent de constituer des groupes pour la recherche. Elles participent aussi à l’organisation des soins. Leur utilité ne garantit pourtant pas qu’elles découpent la réalité de la seule manière possible. Un outil commun peut être nécessaire tout en laissant certaines expériences au second plan."
+          ]
+        },
+        {
+          "title": "Dimensionnalité et sélection des marqueurs",
+          "paragraphs": [
+            "Le chapitre compare la psychiatrie à l’astronomie. Une température d’étoile varie de manière continue ; fixer une frontière entre étoiles « chaudes » et « froides » demande un choix. L’analogie aide à comprendre une première difficulté : une [[dimension|dimension]] continue ne fournit pas d’elle-même toutes les frontières dont une classification a besoin. En psychiatrie, la souffrance et le retentissement dans la vie participent aussi au jugement clinique.",
+            "Des classifications fondées sur la description clinique peuvent retenir des éléments sémiologiques différents parce qu’elles reposent sur des théories et des hypothèses distinctes. Le chapitre compare notamment les orientations du Manuel diagnostique psychodynamique et du DSM. La pluralité des classifications concerne ainsi les marqueurs retenus, y compris au sein d’un même niveau de description. (pp. 26–27)"
+          ]
+        },
+        {
+          "title": "Modèles et objectifs cliniques ou scientifiques",
+          "paragraphs": [
+            "Un [[modele|modèle]] est une représentation choisie pour répondre à certaines questions. Il sélectionne des aspects de son objet et en laisse d’autres de côté. Le livre distingue notamment les besoins du neuroscientifique, qui utilise des éléments quantifiables et simplifiés, de ceux du clinicien, qui prend en compte une diversité d’éléments cliniques, sociaux et environnementaux. Le choix du modèle dépend de ces objectifs. (pp. 27–28)",
+            "Le livre parle de nomadisme nosologique pour désigner la circulation entre cadres selon les usages. Rechercher des variables comparables dans une étude et comprendre l’histoire singulière d’une personne ne demandent pas exactement la même représentation. Le choix doit pouvoir être justifié : quelles informations sont nécessaires, quelles simplifications sont acceptables, quelles conséquences aura le classement ?"
+          ]
+        },
+        {
+          "quote": "La pluralité des classifications reflète ainsi la diversité des objectifs, des contextes et des finalités qui orientent la pratique et la recherche en psychiatrie.",
+          "page": 27
+        },
+        {
+          "title": "Stadification, HiTOP et RDoC",
+          "paragraphs": [
+            "La [[stadification|stadification]] suit des étapes possibles d’évolution : risque, premiers signes, épisode constitué, transformations ultérieures. Elle attire l’attention sur le temps, sans impliquer une aggravation inévitable. Un facteur de risque augmente une probabilité ; il ne signifie pas que le trouble a déjà commencé.",
+            "[[hitop|HiTOP]] organise des variations psychopathologiques en niveaux emboîtés à partir de leurs relations statistiques. On peut décrire de grands ensembles puis des aspects plus précis. Cette hiérarchie est une structure de regroupement, pas une échelle de valeur des personnes ni la démonstration d’une cause générale cachée.",
+            "[[rdoc|RDoC]] est un cadre de recherche. Il étudie des dimensions du fonctionnement, comme l’attention, la perception, la mémoire de travail ou le contrôle cognitif, à plusieurs échelles : gènes, fonctionnement cérébral ou comportement, par exemple. Il n’est pas un manuel à utiliser pour poser un diagnostic en consultation. Ces approches déplacent chacune une question ; elles ne sont pas des versions interchangeables d’un même outil."
+          ]
+        },
+        {
+          "title": "Comorbidité et multimorbidité",
+          "paragraphs": [
+            "Le livre distingue la [[multimorbidite|multimorbidité]], où plusieurs problèmes de santé sont considérés ensemble, de la comorbidité organisée autour d’un trouble principal. Ce changement de perspective invite à partir de la personne et de ses besoins. Il peut rendre visibles des interactions que l’organisation des soins en domaines séparés traite difficilement.",
+            "L’articulation entre les approches dynamiques, hiérarchiques et dimensionnelles soulève des difficultés théoriques et cliniques. Ces classifications ne retiennent pas les mêmes propriétés ni les mêmes objectifs. Le chapitre II étudie les formes de pluralisme qui peuvent organiser leurs relations. (p. 37)"
+          ]
+        }
+      ],
+      "number": "I"
+    },
+    {
+      "slug": "pluralisme",
+      "title": "Différents pluralismes pour la psychiatrie",
+      "short": "Pluralismes en psychiatrie",
+      "group": "fondements",
+      "chapter": "Chapitre II",
+      "pages": "39–49",
+      "kicker": "Perspective épistémologique",
+      "intro": "Le pluralisme reconnaît la pertinence de plusieurs approches de la psychiatrie. Le chapitre II distingue les formes non intégratives et intégratives, puis examine leurs limites, notamment pour rendre compte de l’expérience à la première personne.",
+      "sections": [
+        {
+          "title": "Le modèle biopsychosocial et ses limites",
+          "paragraphs": [
+            "Le [[pluralisme|pluralisme]] reconnaît la pertinence de plusieurs approches. Mais il existe plusieurs façons d’être pluraliste. On peut tolérer la coexistence de cadres autonomes ; on peut chercher à les coordonner ; on peut aussi les juxtaposer sans préciser leurs relations. Le chapitre II examine ces différences plutôt que de faire de la diversité une vertu suffisante.",
+            "Le modèle [[biopsychosocial|biopsychosocial]] permet de poser le problème. Nommer le biologique, le psychologique et le social rappelle qu’une vie comporte plusieurs dimensions. Cependant, la juxtaposition des domaines biologique, psychologique et social n’explicite pas leurs interactions causales. Le « social » peut rester vague ; la biologie peut conserver toute l’autorité dans la décision ; le vécu de la personne peut se trouver à nouveau laissé de côté."
+          ]
+        },
+        {
+          "title": "Pluralismes non intégratifs",
+          "paragraphs": [
+            "Dans les pluralismes non intégratifs, les cadres n’ont pas nécessairement à se fondre dans une théorie commune. Une approche peut être utile pour une question et une autre pour une autre. Le livre évoque un pluralisme tolérant : la coexistence limite la tentation d’une discipline de répondre à toutes les questions à la place des autres.",
+            "Le chapitre présente également l’idée d’un monde « tacheté », dans lequel des régularités peuvent être valables dans certains domaines sans relever d’une loi universelle. L’évaluation d’un modèle tient alors compte de sa capacité explicative, de sa généralité, de sa pertinence pour le cas considéré et des possibilités d’intervention qu’il permet d’envisager. (pp. 42–44)"
+          ]
+        },
+        {
+          "title": "Pluralismes intégratifs",
+          "paragraphs": [
+            "Les pluralismes intégratifs essaient, eux, de coordonner les perspectives. Intégrer ne signifie pas nécessairement tout ramener à la biologie ni produire une explication totale. On peut organiser plusieurs niveaux, leur accorder un rôle différent selon l’objet, ou étudier leurs influences réciproques.",
+            "Dans l’exemple de la dépression, le pluralisme causal relie une vulnérabilité génétique, la sensibilité au stress, les relations interpersonnelles et des modifications neurobiologiques. Il cherche à comprendre leurs influences réciproques. L’enjeu consiste à préciser les relations entre ces facteurs plutôt qu’à les considérer comme des causes indépendantes. (p. 46)"
+          ]
+        },
+        {
+          "title": "Expérience à la première personne et limites des pluralismes",
+          "paragraphs": [
+            "Le livre formule une objection décisive : même un modèle comprenant beaucoup de niveaux peut décrire la personne de l’extérieur. La [[phenomenologie|phénoménologie]] rappelle l’importance de l’expérience à la première personne. Ne plus prendre plaisir à une activité, par exemple, ne se résume pas à l’addition d’une composante biologique, d’une composante psychologique et d’une composante sociale.",
+            "L’[[anhedonie|anhédonie]] désigne une diminution de la capacité à éprouver du plaisir. Selon la critique développée dans le chapitre, la séparation de la tristesse ou de l’anhédonie en composantes biologiques, psychologiques et sociales ne restitue pas nécessairement l’expérience vécue à la première personne. Le sens d’une manifestation ne se réduit donc pas à la somme de ses descriptions partielles. (p. 47)",
+            "Le chapitre interroge également la séparation entre personne et environnement. Dire que le milieu influence un individu peut encore donner l’impression de deux blocs d’abord indépendants. Une perspective relationnelle demande comment la personne se constitue et se transforme dans ses échanges avec son monde."
+          ]
+        },
+        {
+          "quote": "En particulier, la plupart des formes de pluralisme en psychiatrie peinent à intégrer l’expérience à la première personne, existentielle, essentielle en pratique clinique.",
+          "page": 47
+        },
+        {
+          "title": "Controverses scientifiques et dépendance au chemin",
+          "paragraphs": [
+            "Les modèles se développent dans des institutions. Les formations, les financements, les outils et les habitudes rendent certaines approches plus visibles et plus faciles à utiliser. La [[dependance-chemin|dépendance au chemin]] désigne cette manière dont les choix passés orientent les possibilités présentes. Elle n’annule pas le rôle des preuves ; elle invite à observer les conditions dans lesquelles elles sont produites et mobilisées.",
+            "Le pluralisme défendu par le livre reste donc un travail à accomplir. Il demande des articulations explicites, une discussion rigoureuse et une attention aux effets de pouvoir. Accueillir plusieurs perspectives ne signifie pas accepter n’importe quelle explication. Une proposition doit pouvoir être interrogée sur ses arguments, ses données, ses limites et ce qu’elle change pour les personnes concernées."
+          ]
+        },
+        {
+          "note": "Définition : épistémologie",
+          "text": "L’épistémologie est la réflexion sur la manière dont une connaissance est produite et justifiée. Demander « comment le sait-on ? » ou « que permet de conclure cette étude ? » est déjà une question épistémologique."
+        }
+      ],
+      "number": "II"
+    },
+    {
+      "slug": "promesses",
+      "title": "L’économie des promesses de la psychiatrie",
+      "short": "L’économie des promesses",
+      "group": "fondements",
+      "chapter": "Chapitre III",
+      "pages": "51–71",
+      "kicker": "Perspective sociologique",
+      "intro": "La psychiatrie personnalisée et de précision vise à mieux adapter les soins à partir de données individuelles. Le chapitre III analyse les promesses associées à ce programme, ses conditions de validation et ses conséquences cliniques et sociales.",
+      "sections": [
+        {
+          "title": "Médecine personnalisée et médecine de précision",
+          "paragraphs": [
+            "Tenir compte de la personne n’est pas une invention récente. Écouter une histoire, ajuster un échange, discuter des préférences font déjà partie du soin. La [[precision|psychiatrie de précision]] poursuit une ambition particulière : utiliser des données et des modèles pour mieux distinguer des profils, anticiper des évolutions ou ajuster des interventions. Ces données peuvent être biologiques, mais aussi cliniques, temporelles ou psychosociales.",
+            "La question est donc double. Peut-on décrire une situation plus finement ? Et cette description améliore-t-elle une décision ou un résultat qui compte pour la personne ? Une mesure plus détaillée n’est pas encore une réponse à la seconde question. Un [[biomarqueur|biomarqueur]], par exemple, est un indicateur biologique mesurable ; son existence ne prouve pas automatiquement sa pertinence pour guider un soin."
+          ]
+        },
+        {
+          "title": "Le rôle des promesses dans l’organisation de la recherche",
+          "paragraphs": [
+            "Les promesses contribuent à mobiliser les équipes, les financements et les ressources nécessaires au développement scientifique. Le chapitre étudie cette économie des promesses : les attentes orientent des programmes de recherche avant que leurs bénéfices annoncés soient établis. Leur analyse porte à la fois sur la production des connaissances et sur leurs conditions institutionnelles. (p. 65)",
+            "Cela ne rend pas la recherche illégitime. Explorer demande du temps et comporte des incertitudes. Mais les attentes doivent pouvoir être révisées lorsque les résultats déçoivent. Si une nouvelle annonce efface sans discussion l’écart entre promesse antérieure et résultat obtenu, il devient difficile de juger l’orientation collective des efforts. Le vocabulaire de l’innovation peut alors prendre la place de son évaluation."
+          ]
+        },
+        {
+          "title": "Résultats cliniques, généralisation et solidarité",
+          "paragraphs": [
+            "Une première question concerne la qualité des connaissances : les résultats sont-ils solides, reproductibles, pertinents dans d’autres contextes ? Une deuxième concerne l’[[utilite-clinique|utilité clinique]] : l’outil améliore-t-il effectivement une décision ou un accompagnement ? Une troisième concerne la justice : qui y a accès, à quel coût, et quels autres besoins risquent d’être négligés ?",
+            "Ces questions sont liées, mais elles ne sont pas équivalentes. Une excellente performance sur un ensemble de données ne suffit pas à établir un bénéfice en situation réelle. Un bénéfice réel pour quelques personnes ne règle pas à lui seul la question de l’accès pour tous. Le livre souligne que les ressources humaines et les conditions ordinaires du soin restent essentielles, y compris lorsque les instruments techniques progressent."
+          ]
+        },
+        {
+          "quote": "La promesse constitue un moteur central de l’innovation scientifique et technique : elle structure le développement des outils, fédère les équipes autour d’un objectif commun et permet de mobiliser les ressources nécessaires, y compris financières.",
+          "page": 65
+        },
+        {
+          "note": "Précision des mécanismes et efficacité clinique",
+          "text": "Une compréhension plus précise des mécanismes pathologiques ne dispense pas de vérifier empiriquement l’efficacité d’un traitement. L’individualisation doit rester compatible avec la reproductibilité, la sécurité et la fiabilité des soins. (p. 68)"
+        },
+        {
+          "title": "Réductionnisme et surmédicalisation",
+          "paragraphs": [
+            "Le premier serait de réduire une personne à un profil de données. Les déterminants biologiques peuvent compter sans épuiser les dimensions relationnelles, culturelles et vécues. Le second serait de croire que toute détection plus précoce constitue nécessairement un progrès. Le livre distingue la médicalisation, qui peut donner accès au soin, de la [[surmedicalisation|surmédicalisation]], qui peut produire des diagnostics ou des interventions sans bénéfice suffisant.",
+            "La différence entre risque et début de trouble devient ici importante. Un [[facteur-risque|facteur de risque]] est associé à une probabilité plus élevée ; un [[prodrome|prodrome]] est une manifestation initiale d’un trouble, dont le caractère annonciateur peut n’être reconnu que rétrospectivement. Les confondre peut transformer une possibilité en trajectoire supposée certaine. L’assimilation de facteurs de risque à un syndrome peut conduire à une surmédicalisation. (p. 69)"
+          ]
+        },
+        {
+          "title": "Conditions et limites d’une psychiatrie de précision",
+          "paragraphs": [
+            "Le livre envisage une psychiatrie de précision élargie aux informations temporelles, relationnelles et subjectives. L’évaluation écologique momentanée, ou EMA, recueille le point de vue du patient dans son environnement quotidien au moyen d’observations répétées. Elle peut documenter des variations qui échappent à une mesure ponctuelle et compléter les informations cliniques. (pp. 66–68)",
+            "Cette ouverture exige de maintenir plusieurs voies de recherche et plusieurs formes de soin. Elle suppose d’évaluer les résultats, de ne pas laisser l’innovation absorber toute l’attention et de discuter les choix collectifs. Les modèles de la deuxième partie entrent dans cet espace : ils donnent des moyens d’explorer, mais leur intérêt doit toujours être rapporté à ce qu’ils permettent de comprendre et de faire."
+          ]
+        },
+        {
+          "quote": "Ainsi, précision et personnalisation peuvent être utiles à la psychiatrie à condition qu’elles ne deviennent pas la seule voie d’amélioration ni le paradigme dominant.",
+          "page": 70
+        }
+      ],
+      "number": "III"
+    },
+    {
+      "slug": "ecouter",
+      "title": "Contingence et continuité : sémiologie et philosophie psychiatriques",
+      "short": "Sémiologie et philosophie",
+      "group": "fondements",
+      "chapter": "Chapitre IV",
+      "pages": "73–84",
+      "kicker": "Perspective clinique",
+      "intro": "La sémiologie décrit et interprète les manifestations cliniques. Le chapitre IV examine la contingence historique des catégories, la continuité de certaines exigences du soin et la place de l’incertitude dans la pratique psychiatrique.",
+      "sections": [
+        {
+          "title": "Les questions philosophiques dans la pratique clinique",
+          "paragraphs": [
+            "La psychiatrie est une discipline médicale qui s’occupe des troubles psychiques et de la souffrance qui leur est associée. La philosophie de la psychiatrie interroge les notions, les méthodes et les valeurs avec lesquelles elle travaille. Qu’appelle-t-on un trouble ? Qu’est-ce qui compte comme une preuve ? Comment un nom diagnostique transforme-t-il la manière dont une personne est comprise, par elle-même et par les autres ?",
+            "Ces questions ne se situent pas à distance de la consultation. Choisir les mots pour décrire une plainte, décider quels éléments rapprocher ou reconnaître ce que l’on ignore sont déjà des opérations de pensée. Le livre propose de les rendre explicites. Une notion mieux comprise peut permettre de mieux écouter ; une incertitude reconnue peut ouvrir un échange au lieu de le fermer."
+          ]
+        },
+        {
+          "title": "Du récit au symptôme",
+          "paragraphs": [
+            "Un [[symptome|symptôme]] est une manifestation qui prend une importance clinique : une difficulté, une sensation, une expérience vécue que la personne décrit, parfois repérée aussi par son entourage. La [[semiologie|sémiologie]] est le travail de description et d’interprétation de ces manifestations. Elle fournit un langage partagé, mais elle ne se réduit pas à cocher des cases.",
+            "Le livre prend l’exemple de l’insomnie. Ce mot peut désigner une difficulté de sommeil ; il ne dit pas encore comment elle est éprouvée, à quels moments elle survient, quelle signification elle a dans une histoire ni ce qu’elle empêche de faire. Deux récits peuvent employer le même terme tout en appelant des questions différentes. La description clinique organise ces récits sans pouvoir en conserver toute la richesse."
+          ]
+        },
+        {
+          "quote": "Le symptôme est ainsi un concept « épais ».",
+          "page": 78
+        },
+        {
+          "title": "Un concept qui contient une expérience et un jugement",
+          "paragraphs": [
+            "Un [[concept-epais|concept épais]] mêle description et évaluation. Décrire un symptôme, c’est dire quelque chose de ce qui arrive, mais aussi de ce qui pose problème, fait souffrir ou limite une vie. La dimension [[normativite|normative]] concerne précisément ces critères : à partir de quand un écart devient-il une difficulté nécessitant du soin, et selon quel point de vue ?",
+            "Cette attention au sens n’abolit pas les connaissances biologiques ou les mesures. Elle demande de comprendre ce qu’elles permettent de dire et ce qui leur échappe. Le symptôme peut être étudié comme un indice, comme une expérience corporelle, comme une expression porteuse de sens ou comme une difficulté inscrite dans un milieu. Chacune de ces entrées doit pouvoir rencontrer les autres."
+          ]
+        },
+        {
+          "title": "Des catégories changeantes, un besoin de soin persistant",
+          "paragraphs": [
+            "Les classifications psychiatriques ont une histoire. Elles résultent de connaissances, mais aussi de choix institutionnels, de débats et de contextes sociaux. Le livre emploie le mot [[contingence|contingence]] : les catégories actuelles ne sont pas l’aboutissement nécessaire de cette histoire. Cela ne signifie pas que la souffrance serait imaginaire, ni que tous les classements seraient arbitraires.",
+            "À travers ces transformations, certaines tâches persistent : entendre la détresse, comprendre l’expérience vécue, situer une difficulté dans des relations, trouver un langage pour en parler. Dans l’introduction, l’auteur montre aussi que des catégories circulant dans les communautés en ligne peuvent fournir des mots à une expérience. Interroger cette circulation ne revient pas à nier la réalité de ce qui est éprouvé. Le diagnostic appartient ainsi à une vie sociale autant qu’à un manuel."
+          ]
+        },
+        {
+          "title": "L’humilité clinique et l’incertitude",
+          "paragraphs": [
+            "Le chapitre IV distingue quatre formes d’[[humilite|humilité clinique]]. L’humilité conceptuelle reconnaît que nos catégories sont situées dans une histoire et une culture. L’humilité émotionnelle accueille l’angoisse ou la frustration que peut susciter l’absence de réponse certaine. L’humilité relationnelle reconnaît les différences de pouvoir entre soignant et soigné. L’humilité réflexive consiste à apprendre de l’expérience, des collègues et des patients.",
+            "Il ne s’agit pas de renoncer à décider, mais d’expliciter ce qui fonde une décision et de pouvoir la réviser. Le livre distingue l’incomplétude des savoirs disponibles, les limites de la compréhension du clinicien et leur articulation. Reconnaître ces sources d’incertitude permet d’en faire un objet de réflexion clinique. (p. 83)"
+          ]
+        },
+        {
+          "table": {
+            "caption": "Tableau 1. Les quatre formes d’humilité clinique pour la philosophie de la psychiatrie",
+            "page": 83,
+            "columns": [
+              "Forme d’humilité",
+              "Description"
+            ],
+            "rows": [
+              [
+                "Conceptuelle",
+                "Conscience du caractère historiquement et culturellement situé des catégories"
+              ],
+              [
+                "Émotionnelle",
+                "Capacité à accueillir des émotions comme l’angoisse, la frustration ou la colère"
+              ],
+              [
+                "Relationnelle",
+                "Reconnaissance explicite des asymétries dans la relation thérapeutique"
+              ],
+              [
+                "Réflexive",
+                "Disposition continue à apprendre de l’expérience clinique, des pairs et des patients"
+              ]
+            ]
+          }
+        },
+        {
+          "note": "Quatre approches philosophiques de la sémiologie",
+          "text": "L’épistémologie interroge les connaissances et les preuves ; la phénoménologie décrit l’expérience telle qu’elle est vécue ; l’herméneutique s’intéresse à l’interprétation et au sens ; l’approche critique examine les normes, les institutions et les rapports de pouvoir. Ces mots désignent des questions complémentaires, développées aux pages 81–82 du livre."
+        }
+      ],
+      "number": "IV"
+    },
+    {
+      "slug": "temps",
+      "title": "La théorie des systèmes dynamiques",
+      "short": "Systèmes dynamiques",
+      "chapter": "Chapitre V",
+      "pages": "87–96",
+      "kicker": "Systèmes complexes et enjeux de temporalité",
+      "intro": "La théorie des systèmes dynamiques étudie l’évolution temporelle d’éléments en interaction. En psychiatrie, elle permet de représenter la persistance de certains états, les fluctuations symptomatiques et les transitions entre configurations cliniques.",
+      "group": "ouvertures",
+      "sections": [
+        {
+          "title": "Limites temporelles des catégories diagnostiques",
+          "paragraphs": [
+            "Les catégories diagnostiques fournissent une description générale de l’état clinique. Elles rendent moins directement compte de l’évolution quotidienne des symptômes, de leurs changements non linéaires et de la diversité des configurations symptomatiques. Les systèmes dynamiques proposent un cadre pour étudier ces dimensions temporelles. (pp. 87–89)",
+            "Le livre part de cette limite des catégories. Une catégorie comme la schizophrénie offre une vue d’ensemble ; elle ne décrit pas à elle seule le mouvement quotidien des symptômes. Certaines évolutions sont progressives, d’autres discontinues. Des difficultés persistent, d’autres fluctuent. Des personnes partageant un diagnostic présentent aussi des configurations très différentes. Ces observations invitent à distinguer une classification et une trajectoire : la première rassemble des cas sous un nom ; la seconde suit une évolution dans le temps. L’auteur résume ce déplacement : « Les troubles psychiatriques sont plutôt intrinsèquement dynamiques. » (p. 88)"
+          ]
+        },
+        {
+          "title": "Définition des systèmes dynamiques",
+          "paragraphs": [
+            "Un système est un ensemble d’éléments dont les relations comptent. Dans la situation clinique évoquée par le livre, on peut s’intéresser au sommeil, au stress professionnel et au soutien social. Ces éléments ne sont pas simplement juxtaposés. Leur évolution conjointe peut contribuer au maintien d’un état anxieux. « Dynamique » signifie ici que l’on étudie leurs transformations au cours du temps. L’analyse porte sur la succession des états du système et sur leurs transitions. (pp. 89–90, 95)",
+            "Un modèle dynamique formalise certaines de ces relations. Il choisit des variables, c’est-à-dire des aspects qu’il sera possible de décrire ou de mesurer, puis précise comment elles évoluent. Les mathématiques rendent ces choix explicites : elles permettent de vérifier les conséquences des hypothèses plutôt que de s’en tenir à une impression. Cependant, le modèle demeure une construction. Ce qu’il calcule dépend de ce qu’on y fait entrer, des relations que l’on suppose et de la qualité des observations."
+          ]
+        },
+        {
+          "quote": "La théorie des systèmes dynamiques constitue un cadre à la fois conceptuel et mathématique, destiné à modéliser l’évolution temporelle de multiples éléments en interaction.",
+          "page": 89
+        },
+        {
+          "title": "Attracteurs, stabilité et multistabilité",
+          "paragraphs": [
+            "Un attracteur désigne un état ou un ensemble d’états vers lequel tend l’évolution d’un système. Il permet de représenter la persistance relative d’une configuration clinique. Cette stabilité n’implique pas que l’état soit favorable : le livre prend notamment l’exemple d’un épisode anxieux. (pp. 90–92)",
+            "La multistabilité correspond à la coexistence de plusieurs configurations stables possibles. Le chapitre l’illustre par la possibilité d’une stabilisation dans un état dépressif ou dans un état d’humeur stable. Les transitions entre configurations dépendent de l’état du système et des perturbations auxquelles il est soumis. (pp. 91–92)",
+            "La modélisation individuelle peut s’appuyer sur des données longitudinales, c’est-à-dire des observations répétées au cours du temps. Le chapitre envisage leur utilisation pour décrire les configurations propres à une personne et analyser l’évolution de ses symptômes et de ses vécus. (p. 93)"
+          ]
+        },
+        {
+          "title": "Hystérésis, bifurcations et points de bascule",
+          "paragraphs": [
+            "L’hystérésis désigne une autre idée : l’état présent dépend aussi de l’histoire qui y a conduit. Le livre prend l’exemple d’une dépression persistante. Une amélioration des conditions de vie ne s’accompagne pas toujours d’un retour spontané à l’humeur antérieure. Il ne suffit donc pas nécessairement d’inverser le changement extérieur pour retrouver la situation de départ. Cette manière de décrire les choses évite de réduire la difficulté à la seule condition actuelle. (p. 92)",
+            "Les points de bascule désignent, quant à eux, des passages vers une autre organisation. L’auteur évoque une crise de panique qui pourrait survenir sous l’effet d’un stress limité lorsque la personne se trouve déjà dans une configuration particulière. L’exemple invite à regarder l’ensemble de la situation. Il ne transforme pas chaque petit stress en menace : son effet dépend des interactions et du moment. Dans certains modèles, le retour à l’équilibre devient plus lent avant une transition. On parle alors de ralentissement critique. C’est une piste d’étude, pas un signal certain que chacun pourrait reconnaître et interpréter seul. (pp. 92–93)"
+          ]
+        },
+        {
+          "title": "Périodicité, chaos et auto-organisation",
+          "paragraphs": [
+            "Toutes les trajectoires ne sont pas des basculements. Certaines reviennent régulièrement vers des états comparables : le livre évoque des épisodes thymiques saisonniers, c’est-à-dire des variations de l’humeur dont le retour suit les saisons. D’autres paraissent irrégulières. Le mot « chaos », dans ce cadre, ne signifie pas absence de règles ; il renvoie à des évolutions dont la prévision à long terme peut être très difficile malgré des relations sous-jacentes. D’autres configurations encore résultent d’une auto-organisation : des interactions locales produisent un ensemble qui se maintient. (p. 93)",
+            "L’exemple proposé après un traumatisme relie hypervigilance, évitement et pensées intrusives. L’hypervigilance est un état d’alerte accentué ; l’évitement consiste à se tenir à distance de situations éprouvées comme menaçantes ; les pensées intrusives s’imposent involontairement. Ces manifestations peuvent contribuer ensemble à une configuration durable. L’intérêt du modèle consiste à ne pas chercher uniquement un élément isolé qui expliquerait tout. Il invite à examiner comment plusieurs dimensions de l’expérience se soutiennent ou se modifient. Cet exemple, comme les autres, décrit une possibilité de compréhension ; il ne résume pas toutes les expériences traumatiques."
+          ]
+        },
+        {
+          "title": "Apports théoriques et applications cliniques",
+          "paragraphs": [
+            "Le chapitre propose ainsi de soutenir une formulation de cas : une compréhension organisée des difficultés, ressources et contraintes propres à une personne. Le sommeil, les événements de vie, les réactions corporelles et les stratégies d’adaptation peuvent y trouver une place commune. Une description dite transdiagnostique traverse les frontières habituelles des diagnostics pour suivre ces mécanismes et ces expériences. (pp. 95–96)",
+            "Le chapitre distingue plusieurs applications possibles : l’étude des interactions propres à une personne, la formulation de cas, l’analyse de configurations stables et l’exploration de trajectoires cliniques. Il envisage également la simulation d’effets d’interventions comme une application de la modélisation. Ces perspectives doivent être distinguées de la démonstration d’une capacité prédictive pour une situation individuelle. (pp. 95–96)"
+          ]
+        }
+      ],
+      "number": "V"
+    },
+    {
+      "slug": "reseaux",
+      "title": "La théorie des réseaux de symptômes",
+      "short": "Réseaux de symptômes",
+      "chapter": "Chapitre VI",
+      "pages": "97–105",
+      "kicker": "Systèmes complexes et enjeux relationnels",
+      "intro": "La théorie des réseaux de symptômes considère les relations entre manifestations cliniques comme une composante possible de l’émergence, du maintien et de l’évolution des troubles. Elle distingue les structures observées dans des groupes, les dynamiques individuelles et les relations causales perçues par les patients.",
+      "group": "ouvertures",
+      "sections": [
+        {
+          "title": "Les symptômes comme éléments en interaction",
+          "paragraphs": [
+            "La théorie des réseaux de symptômes examine les relations entre les manifestations cliniques et leur contribution au maintien d’un trouble. L’exemple présenté dans le livre relie l’insomnie à la fatigue, la fatigue à l’humeur dépressive, puis l’humeur dépressive aux difficultés de concentration. Ces relations sont proposées comme des mécanismes possibles d’interaction entre symptômes. (pp. 99–100)",
+            "Le chapitre commence par reconnaître les services rendus par les classifications : elles fournissent des repères communs à la clinique, à la recherche et à la santé publique. Mais elles n’expliquent pas, à elles seules, l’expérience particulière d’une personne. Le symptôme ne serait alors plus seulement l’indice d’une maladie invisible située derrière lui. Il pourrait aussi participer activement à l’évolution de la situation, tout en ayant une signification dans la vie de celui ou celle qui le décrit. (pp. 97–98)"
+          ]
+        },
+        {
+          "title": "Nœuds, arêtes et types de relations",
+          "paragraphs": [
+            "« Un réseau est formellement défini comme un ensemble de nœuds reliés par des arêtes. » (p. 99) Les nœuds sont les éléments du dessin. Les arêtes sont les liens qui les réunissent. Dans un réseau psychiatrique, un nœud peut représenter un symptôme, mais aussi un événement de vie, un paramètre biologique, une interaction sociale ou une autre dimension retenue pour l’étude. La représentation peut donc mettre en relation ce que l’on sépare parfois trop vite entre biologique, psychologique et social. (pp. 99, 102, 104)",
+            "Le sens d’un trait doit cependant être précisé. Il peut indiquer que deux mesures varient ensemble. Il peut représenter une hypothèse d’influence. Il peut aussi montrer une relation telle qu’une personne la décrit. Une flèche précise un sens ; l’épaisseur d’un trait peut rendre visible une intensité. Ces conventions aident à lire le modèle, mais le dessin ne transforme pas une hypothèse en preuve."
+          ]
+        },
+        {
+          "title": "Activation réciproque et maintien des symptômes",
+          "paragraphs": [
+            "L’exemple du livre suit un enchaînement : l’insomnie peut renforcer la fatigue ; celle-ci peut aggraver l’humeur dépressive ; l’humeur dépressive peut augmenter les difficultés de concentration. Le mot « peut » compte. Il présente des relations possibles, à examiner dans une situation, sans supposer un enchaînement identique chez toutes les personnes. L’hypothèse générale est que les symptômes peuvent contribuer à l’apparition ou au maintien d’autres symptômes. (pp. 99–101)",
+            "Cette perspective se distingue d’un modèle où une cause commune cachée expliquerait à elle seule leur association. Cette cause commune est appelée variable latente : elle n’est pas directement observée, mais elle est supposée pour rendre compte des observations. Dans l’approche en réseau, l’attention se porte sur les relations entre les manifestations elles-mêmes. Le changement est une proposition de compréhension, qui doit produire des hypothèses examinables. Il ne suffit pas de dessiner un réseau pour démontrer que toutes les difficultés d’une personne ont cette origine.",
+            "Le livre évoque également l’anxiété : une vigilance accrue peut alimenter l’évitement, lequel peut à son tour augmenter l’angoisse. Une boucle désigne précisément un enchaînement qui revient agir sur les éléments dont il est parti. Elle aide à penser la persistance d’une difficulté, même lorsque la situation initiale a changé. L’exemple permet de comprendre la notion ; il ne fournit pas une règle de soin applicable automatiquement. (p. 101)"
+          ]
+        },
+        {
+          "quote": "La causalité y est donc distribuée et circulaire.",
+          "page": 103
+        },
+        {
+          "title": "Approches nomothétique et idiographique",
+          "paragraphs": [
+            "Certains réseaux sont construits à partir des données de nombreuses personnes. Ils cherchent des régularités et permettent de comparer des groupes. Le livre les situe à l’échelle nomothétique. D’autres réseaux suivent les observations répétées d’une même personne : il s’agit de l’échelle idiographique. Cette distinction est essentielle. Une association observée entre personnes ne décrit pas nécessairement les relations qui se déroulent dans la vie d’une personne donnée. (pp. 100, 102–103)",
+            "L’auteur présente aussi les réseaux causaux perçus, appelés PECAN. Ils donnent une forme aux liens d’influence tels que la personne les comprend. Cette démarche reconnaît que le vécu et l’interprétation ne sont pas seulement des erreurs gênant l’observation : ils constituent eux-mêmes une information clinique. Une relation perçue demeure cependant une relation perçue. L’écouter, la représenter et en discuter ne signifie pas que son mécanisme causal soit déjà démontré. (pp. 98, 100)"
+          ]
+        },
+        {
+          "title": "Propriétés structurelles des réseaux",
+          "paragraphs": [
+            "Un réseau peut comporter de nombreux liens, certains plus forts que d’autres. Certains nœuds sont très connectés ; certains ensembles forment des sous-groupes. Le vocabulaire de la densité, de la centralité ou des communautés décrit ces propriétés. Un nœud particulièrement connecté est parfois appelé hub. Le livre donne l’exemple de l’anhédonie, qui désigne une diminution de la capacité à éprouver du plaisir. (p. 100)",
+            "Ces propriétés peuvent aider à formuler des questions : quelles relations semblent contribuer à la persistance d’un ensemble ? Quelles variations précèdent d’autres variations ? Comment l’organisation se transforme-t-elle au cours du temps ? Mais une mesure de centralité n’est pas une mesure de la valeur d’une expérience ni un ordre de priorité thérapeutique. Le chapitre le précise explicitement : un symptôme central ne doit pas nécessairement être ciblé en premier. La possibilité d’agir, les ressources et les priorités de la personne comptent également. (pp. 102, 104–105)"
+          ]
+        },
+        {
+          "title": "Association statistique, causalité et interprétation clinique",
+          "paragraphs": [
+            "La distinction la plus importante est celle de l’association et de la causalité. Si deux éléments varient ensemble, cela ne prouve pas que l’un produise directement l’autre. Un autre facteur peut contribuer aux deux. Une influence peut aussi dépendre de conditions qui ne figurent pas dans le schéma. Même une relation décalée dans le temps demande une interprétation attentive. C’est pourquoi le livre avertit qu’un lien statistique entre deux nœuds n’est pas nécessairement une relation causale directe. (p. 104)",
+            "L’approche en réseau ouvre un espace de dialogue entre observations, hypothèses et expérience vécue. Elle peut rendre visibles des relations que la liste diagnostique laisse au second plan. Elle peut également aider à suivre leur transformation. Mais son intérêt dépend de la qualité des données et de la prudence des conclusions. La conclusion de l’auteur maintient ensemble cette ambition et cette limite : « Une lecture clinique reste indispensable pour articuler les résultats issus de la modélisation avec les singularités du patient, ses priorités, ses ressources ou ses contraintes. » (p. 105)"
+          ]
+        }
+      ],
+      "number": "VI"
+    },
+    {
+      "slug": "prediction",
+      "title": "La théorie du codage prédictif",
+      "short": "Codage prédictif",
+      "chapter": "Chapitre VII",
+      "pages": "107–116",
+      "kicker": "Systèmes complexes et enjeux génératifs",
+      "intro": "Percevoir, ce serait aussi anticiper et réviser ses attentes. Le codage prédictif explore cette proposition à l’aide de modèles ; le livre en examine les possibilités autant que les limites.",
+      "group": "ouvertures",
+      "sections": [
+        {
+          "title": "Perception, apprentissage et prédiction",
+          "paragraphs": [
+            "La théorie du codage prédictif propose de décrire la perception, l’apprentissage et la décision à partir des relations entre croyances préalables et informations sensorielles. Selon cette approche, le cerveau générerait des prédictions sur les entrées sensorielles et ajusterait ses représentations en fonction des informations reçues. Le chapitre VII présente les principes de cette théorie, ses applications à la sémiologie psychiatrique et ses limites épistémologiques. (pp. 107–109)",
+            "Les sciences cognitives étudient notamment la perception, l’apprentissage et la décision. Un modèle computationnel décrit certains de ces processus de manière assez explicite pour les simuler par le calcul. Selon le codage prédictif, le cerveau combinerait ce qu’il attend avec les informations qu’il reçoit, afin d’estimer ce qui se passe et d’orienter l’action. Le mot « modèle » est essentiel : cette proposition organise des recherches ; elle ne suffit pas à établir que toute la vie mentale se réduit à un mécanisme unique. (pp. 107–108, 115–116)"
+          ]
+        },
+        {
+          "title": "Croyances et modèles probabilistes",
+          "paragraphs": [
+            "Dans le codage prédictif, la croyance désigne un modèle probabiliste de l’environnement. Elle représente la probabilité d’un événement, ses causes possibles et leur variabilité. Elle ne correspond donc pas nécessairement à une conviction explicitement formulée par le sujet. Le livre précise : « La croyance correspond à un modèle probabiliste de l’environnement, intégrant la probabilité d’un événement, ses causes et la variabilité de ces facteurs. » (pp. 109–110)",
+            "Ces représentations sont organisées à plusieurs niveaux. Certaines concernent un événement immédiat ; d’autres des régularités plus générales. C’est le sens de leur organisation « hiérarchique ». Le terme ne désigne pas une échelle de valeur. Il indique que l’interprétation d’un détail et les attentes plus larges peuvent se répondre. Les approches bayésiennes offrent un langage mathématique pour décrire la révision d’une estimation lorsqu’une nouvelle information arrive. Elles n’impliquent pas que chacun effectue consciemment des calculs de probabilités. (pp. 108–110)"
+          ]
+        },
+        {
+          "title": "Prédiction, erreur, mise à jour et précision",
+          "paragraphs": [
+            "Le chapitre distingue quatre étapes ou notions. La prédiction est l’anticipation de ce qui pourrait arriver. L’erreur de prédiction est l’écart entre cette attente et l’information reçue. La mise à jour est la modification de l’attente à partir de cette expérience. Enfin, la précision représente la confiance attribuée à l’attente ou à l’information nouvelle. Une « erreur » n’est donc pas ici une faute : c’est un écart qui peut permettre d’apprendre. De même, une attente dite très précise n’est pas nécessairement juste ; elle pèse fortement dans le modèle. (p. 110)",
+            "La précision désigne la confiance attribuée aux prédictions ou aux erreurs de prédiction. Dans ce cadre théorique, elle détermine leur poids relatif dans la révision des croyances. Le chapitre examine également le rôle de la volatilité, c’est-à-dire de l’instabilité de l’environnement : lorsque les informations reçues sont considérées comme peu fiables, leur contribution à la mise à jour des croyances peut être réduite. Il s’agit d’un mécanisme proposé par ces modèles, dont l’application dépend du contexte étudié. (pp. 110–113)"
+          ]
+        },
+        {
+          "title": "L’inférence active",
+          "paragraphs": [
+            "L’inférence active étend le codage prédictif en intégrant le rôle de l’action dans la réduction de l’erreur de prédiction. Selon cette approche, le sujet peut modifier son environnement ou son comportement, et ainsi les informations sensorielles qu’il reçoit. Le chapitre applique cette proposition aux comportements d’évitement dans l’anxiété sociale : l’évitement peut limiter les expériences susceptibles de contredire une anticipation de menace et contribuer à son maintien. Cette interprétation constitue une hypothèse explicative, soumise aux limites du cadre théorique. (pp. 111, 115–116)"
+          ]
+        },
+        {
+          "title": "Processus génératifs et hétérogénéité des symptômes",
+          "paragraphs": [
+            "Quel intérêt pour la psychiatrie ? Le chapitre propose de s’intéresser aux processus qui pourraient produire ou maintenir une manifestation, en plus de sa description. Le retrait social en fournit un exemple : éviter une rencontre peut être associé à une anticipation de menace, de surcharge sensorielle ou de rejet. L’observation seule ne dit pas quelle histoire, quelle expérience ou quelles attentes sont en jeu. Comme l’écrit l’auteur : « Le même symptôme s’inscrit dans un réseau distinct de croyances, de modalités perceptives et de régulations affectives. » (p. 112)",
+            "Les informations concernent aussi le corps. L’intéroception est la perception de signaux internes, par exemple cardiaques, respiratoires ou digestifs. Le chapitre présente l’hypothèse selon laquelle les attentes portant sur ces signaux pourraient contribuer à l’expérience émotionnelle. Cela crée des liens entre sensations, émotions et contexte. Cela ne signifie pas que ressentir une émotion constitue une erreur, ni que la signification d’une émotion serait entièrement contenue dans une formule. (pp. 113–114)"
+          ]
+        },
+        {
+          "title": "Limites épistémologiques et cliniques",
+          "paragraphs": [
+            "Un modèle devient utile lorsqu’il précise ce qu’il permet de comprendre et ce qui pourrait le mettre en difficulté. Le livre souligne ici plusieurs problèmes : les mots changent parfois de sens entre psychologie et mathématiques ; les formalismes sont divers ; une théorie très générale risque d’interpréter toute observation comme une confirmation. La question de la réfutation devient alors cruciale : quelle observation conduirait à reconnaître que le modèle ne convient pas ? (p. 115)",
+            "Le codage prédictif propose ainsi un langage pour relier différents niveaux de description et formuler des hypothèses sur la production de l’expérience. Sa valeur ne dispense pas d’écouter ce que cette expérience signifie pour une personne, dans ses relations et dans son histoire. La rencontre clinique comporte des dimensions subjectives, relationnelles et symboliques que la minimisation d’un écart ne suffit pas à décrire. Le chapitre suivant examine les rapports entre raisonnement clinique et intelligence artificielle. (p. 116)"
+          ]
+        }
+      ],
+      "number": "VII"
+    },
+    {
+      "slug": "raisonnement",
+      "title": "L’intelligence artificielle pour la sémiologie psychiatrique",
+      "short": "IA et raisonnement clinique",
+      "chapter": "Chapitre VIII",
+      "pages": "117–129",
+      "kicker": "Systèmes complexes et enjeux de raisonnement",
+      "intro": "Le dialogue avec l’intelligence artificielle permet d’examiner ce que fait un clinicien : choisir des informations, les interpréter, apprendre et décider dans une rencontre singulière. La comparaison demande aussi de préciser ses limites.",
+      "group": "ouvertures",
+      "sections": [
+        {
+          "title": "Le raisonnement clinique et ses heuristiques",
+          "paragraphs": [
+            "Le raisonnement clinique porte sur des informations dont le sens dépend de l’expérience du patient, de ses modes d’expression et de la relation avec le clinicien. Le chapitre VIII souligne les dimensions subjectives, culturelles et intersubjectives de la sémiologie psychiatrique. Il propose de comparer raisonnement clinique et intelligence artificielle pour préciser leurs opérations et leurs limites. (pp. 117–118)",
+            "Le raisonnement clinique désigne le travail intellectuel par lequel le professionnel recueille et organise les informations, les rapproche de ses connaissances et les mobilise dans une situation de soin. Une partie de ce travail s’appuie sur des heuristiques : des raccourcis ou des stratégies permettant d’avancer sans examiner toutes les possibilités. Ce terme n’est pas péjoratif. Il invite à rendre ces stratégies explicites, afin d’en comprendre les avantages et les limites. (p. 118)"
+          ]
+        },
+        {
+          "title": "Les étapes du raisonnement clinique et de l’apprentissage automatique",
+          "paragraphs": [
+            "L’apprentissage automatique permet à un système informatique d’identifier des régularités à partir de données. L’apprentissage profond en est une famille, fondée sur des réseaux de neurones à plusieurs couches. Ces termes ne doivent pas faire oublier le travail en amont : quelles données ont été choisies, comment ont-elles été décrites, dans quel but seront-elles utilisées ? Le chapitre organise la comparaison avec la clinique autour de quatre moments. (pp. 119–122)",
+            "La première étape concerne la collecte des informations cliniques : leur choix, leur dénomination, leur hiérarchisation et leur niveau de détail, appelé granularité. Le livre prend l’exemple du médecin du sommeil, qui distingue l’insomnie d’endormissement, de maintien ou d’éveil ; cette précision dépend du contexte clinique. La deuxième étape concerne le cadre théorique mobilisé. La troisième est la construction du raisonnement par la formation, l’expérience et l’expertise. La quatrième correspond à son utilisation dans des conditions concrètes, notamment de temps, de ressources et d’organisation institutionnelle. (pp. 121–122)",
+            "Ces quatre moments montrent que les données ne parlent jamais seules. Un système informatique travaille à partir des catégories et des informations qu’on lui fournit ; le clinicien mobilise lui aussi des habitudes, des connaissances et des choix de description. Reconnaître ce parallèle permet d’interroger ces choix. Il ne prouve pas que les deux activités possèdent la même nature, ni qu’elles aboutissent à des résultats équivalents. Le chapitre conserve les différences liées à la relation, au contexte et à la singularité de la personne. (pp. 122–124)"
+          ]
+        },
+        {
+          "quote": "La tolérance nécessite avant tout de spécifier les places de chacun, à savoir celle de l’IA et du clinicien.",
+          "page": 121
+        },
+        {
+          "title": "Les six facteurs cliniques discutés par Meehl",
+          "paragraphs": [
+            "Le livre revient sur Paul Meehl, qui avait étudié les relations entre jugement clinique et prédiction statistique. Il présente six capacités considérées comme spécifiques au clinicien : accueillir des informations nouvelles, reconnaître des analogies, raisonner avec des données manquantes, mobiliser une théorie, avancer en temps limité et combiner des configurations complexes. L’auteur rapproche chacune de possibilités techniques de l’apprentissage profond. (pp. 118–123)",
+            "Ces rapprochements posent des questions fécondes, mais doivent être lus à leur juste niveau. Identifier un parallèle entre deux descriptions ne démontre pas une égalité de performance en situation de soin. Il faut encore examiner ce qui est réellement mesuré, ce que la méthode exige comme données et ce qui se perd dans la traduction. Le bénéfice espéré est réciproque : la clinique peut inspirer des outils plus attentifs aux situations ; les outils peuvent rendre explicites certains aspects du raisonnement. (pp. 123–124)"
+          ]
+        },
+        {
+          "title": "Trois figures de la pratique clinique : artisan, anthropologue et cartographe",
+          "paragraphs": [
+            "Pour rendre ce travail concret, le livre propose trois figures. L’artisan ajuste ses outils à la rencontre singulière. Il prête attention à ce qui ne se laisse pas prévoir complètement. L’anthropologue considère le tissu social et institutionnel : les normes, les récits, les conditions d’accès aux soins, les différences de contexte. Le cartographe se repère parmi les modèles et les connaissances. Ces métaphores éclairent trois dimensions d’une même pratique. (p. 125)",
+            "Elles permettent aussi d’examiner une promesse numérique. Un outil aiderait-il seulement à organiser des informations, ou permettrait-il de tenir compte des conditions de vie et de comparer plusieurs hypothèses ? Le jumeau numérique est présenté comme une représentation individualisée, alimentée par plusieurs sources, qui pourrait évoluer et explorer des scénarios. Son intérêt potentiel dépend toutefois de données pertinentes, d’une validation clinique et d’une prise en compte du risque de standardisation. Une représentation d’une personne n’est jamais cette personne elle-même. (pp. 125–126)"
+          ]
+        },
+        {
+          "title": "Les limites des analogies entre troubles psychiatriques et dysfonctionnements informatiques",
+          "paragraphs": [
+            "Les systèmes informatiques peuvent produire des réponses erronées, répétitives ou inadaptées. Ils peuvent aussi être influencés par des données biaisées ou volontairement altérées. Le chapitre explore des analogies entre ces dysfonctionnements et certains termes cliniques. Il précise ensuite qu’une telle réflexion « ne devrait pas viser à anthropomorphiser les machines ». (pp. 126–128)",
+            "On appelle couramment « hallucination » une réponse inventée ou fausse d’un modèle de langage. Cet usage technique n’établit pas que la machine perçoit quelque chose en l’absence de stimulus, éprouve une souffrance ou présente un trouble psychiatrique. L’intérêt de l’analogie est de demander ce que nous appelons un dysfonctionnement, par rapport à quelle tâche et à quelles attentes. Les simulations évoquées dans le livre sont des pistes de recherche ; elles ne constituent pas, dans ce chapitre, des outils cliniques validés. (pp. 127–128)"
+          ]
+        },
+        {
+          "title": "Conditions d’usage et explicabilité",
+          "paragraphs": [
+            "L’approche dite tolérante décrite dans le livre consiste à préciser les places et les exigences : former aux principes et aux limites de l’IA, rendre les outils explicables et préserver la centralité du jugement clinique. L’enjeu n’est donc pas seulement d’obtenir un résultat, mais de pouvoir comprendre comment il a été produit, discuter ses limites et répondre de son usage. (pp. 120–121, note p. 124)",
+            "Le chapitre se termine sur la métaphore comme passage entre univers de pensée. Les modèles dynamiques, les réseaux, le codage prédictif et l’IA proposent des façons différentes de poser des questions à la clinique. Leur rencontre exige un travail de traduction. Les manifestations d’une personne prennent sens dans son histoire, sa parole et ses relations ; aucun dispositif formel ne dispense de revenir à cette situation. Ce retour ouvre naturellement la conclusion du livre, où la complexité s’étend aux conditions sociales, culturelles et environnementales de l’existence. (pp. 128–129, 131–133)"
+          ]
+        }
+      ],
+      "number": "VIII"
+    },
+    {
+      "slug": "mondes",
+      "title": "La psychiatrie environnementale",
+      "short": "Psychiatrie environnementale",
+      "group": "conclusion",
+      "chapter": "Conclusion",
+      "pages": "131–133",
+      "kicker": "Conclusion",
+      "intro": "La complexité ne s’arrête pas aux interactions entre symptômes. La conclusion du livre élargit le regard aux conditions sociales, culturelles et environnementales dans lesquelles une personne vit et peut recevoir du soin.",
+      "sections": [
+        {
+          "title": "Les dimensions sociales, culturelles et environnementales",
+          "paragraphs": [
+            "La conclusion élargit l’étude des systèmes complexes aux conditions sociales, culturelles et environnementales de la santé mentale. Les modèles examinés dans la seconde partie constituent un ensemble de ressources scientifiques. Leur emploi clinique demande aussi de considérer les institutions, les conditions économiques et les milieux dans lesquels vivent les personnes. (pp. 131–133)",
+            "Les interactions entre symptômes, les trajectoires individuelles et les processus de perception ne suffisent pas à décrire les conditions du soin. La conclusion examine cinq domaines complémentaires : la santé mentale publique, la psychiatrie transculturelle, l’exposomique, la psychiatrie écologique et l’approche One Health. (pp. 132–133)"
+          ]
+        },
+        {
+          "title": "La santé mentale publique",
+          "paragraphs": [
+            "La [[sante-publique|santé mentale publique]] s’intéresse aux populations et aux conditions collectives qui participent à leur santé. Le livre mentionne notamment le logement, l’accès aux droits et la stigmatisation. Ces déterminants ne sont pas seulement un décor autour de la consultation : ils peuvent peser sur les difficultés vécues et sur les possibilités de rétablissement.",
+            "Une telle perspective déplace aussi les partenaires du soin. Les sphères politique, éducative et citoyenne deviennent concernées. Les savoirs issus de l’expérience des personnes prennent leur place dans la compréhension des besoins. L’enjeu n’est pas de faire tout porter à la psychiatrie, mais de reconnaître que certaines réponses ne peuvent être apportées par la seule relation individuelle."
+          ]
+        },
+        {
+          "title": "La psychiatrie transculturelle",
+          "paragraphs": [
+            "La [[transculturel|psychiatrie transculturelle]] rappelle qu’une expérience est formulée dans une langue, des récits, des appartenances et des normes. Les migrations et les circulations culturelles peuvent transformer ces repères. L’écoute demande de comprendre ce que les mots signifient pour la personne, plutôt que de les rapporter immédiatement à un cadre supposé universel.",
+            "Prendre en compte la culture ne consiste pas à enfermer quelqu’un dans une identité collective. Il s’agit au contraire d’éviter de croire que le sens de son expérience serait déjà connu. Le livre souligne le risque de malentendus diagnostiques lorsque des modalités d’expression de la souffrance sont interprétées sans leur contexte."
+          ]
+        },
+        {
+          "title": "L’exposomique et la psychiatrie écologique",
+          "paragraphs": [
+            "L’[[exposomique|exposomique]] étudie les expositions rencontrées au fil de la vie et leurs interactions. La conclusion évoque la pollution, la précarité, les traumatismes ou l’alimentation. Le mot invite à articuler des dimensions physiques et sociales, ainsi qu’à suivre leur inscription dans une histoire.",
+            "La psychiatrie écologique s’intéresse plus précisément aux effets psychiques des crises environnementales. Elle examine aussi leurs causes sociales et politiques. Cette perspective évite de réduire systématiquement une réponse à un problème collectif à une fragilité personnelle. Une émotion liée à l’environnement doit être comprise dans la situation qu’elle concerne, et non isolée d’emblée comme un dysfonctionnement individuel."
+          ]
+        },
+        {
+          "title": "L’approche One Health",
+          "paragraphs": [
+            "Le cadre [[one-health|One Health]], que le livre traduit par « psychiatrie unique », relie santé humaine, animale et écosystémique. Il invite à penser la santé mentale dans la manière dont les humains cohabitent avec les autres vivants et partagent un monde commun. Il s’agit d’une ouverture transdisciplinaire, pas d’une nouvelle catégorie diagnostique.",
+            "Le livre propose de rassembler ces cinq domaines sous le terme de « psychiatrie environnementale ». Leurs méthodes et leurs objets restent distincts. Les rapprocher ne produit pas une théorie unique qui expliquerait toute souffrance ; cela élargit les questions, les responsabilités et les formes possibles de coopération."
+          ]
+        },
+        {
+          "quote": "La complexité y apparaît non seulement comme un enjeu sémiologique, mais aussi comme une exigence de justice sociale et environnementale.",
+          "page": 133
+        },
+        {
+          "title": "Complexité clinique et justice sociale",
+          "paragraphs": [
+            "La notion de psychiatrie environnementale rassemble ici plusieurs domaines, sans effacer leurs méthodes ni leurs objets propres. Elle étend l’analyse des symptômes et de leurs interactions aux conditions de vie, aux inégalités et aux relations entre les humains et leur environnement. (pp. 132–133)",
+            "Dans cette perspective, la complexité engage également une réflexion sur la justice sociale et environnementale. L’attention portée à la parole, au corps et à l’histoire des personnes reste liée à l’examen des conditions collectives du soin. (p. 133)"
+          ]
+        }
+      ],
+      "number": ""
+    }
+  ],
+  "glossary": [
+    {
+      "id": "symptome",
+      "term": "Symptôme",
+      "definition": "Manifestation qui prend une importance clinique : expérience, difficulté ou sensation décrite par la personne, parfois repérée par son entourage. Le livre insiste sur son sens vécu, sa dynamique et son inscription dans une relation et une culture.",
+      "pages": "77–78",
+      "lesson": "ecouter"
+    },
+    {
+      "id": "semiologie",
+      "term": "Sémiologie",
+      "definition": "Travail de description et d’interprétation des manifestations cliniques. Il transforme un récit et des observations en un langage partageable, sans pouvoir restituer à lui seul toute l’expérience.",
+      "pages": "76–78",
+      "lesson": "ecouter"
+    },
+    {
+      "id": "nosographie",
+      "term": "Nosographie",
+      "definition": "Organisation descriptive des troubles en ensembles et catégories. Une nosographie retient certains traits et certaines frontières pour répondre à des usages.",
+      "pages": "21–28",
+      "lesson": "classer"
+    },
+    {
+      "id": "nosologie",
+      "term": "Nosologie",
+      "definition": "Réflexion sur la définition, la distinction et les principes de classement des troubles ou maladies. Elle interroge ce qui justifie de réunir ou de séparer des situations.",
+      "pages": "21–28",
+      "lesson": "classer"
+    },
+    {
+      "id": "modele",
+      "term": "Modèle",
+      "definition": "Représentation sélectionnée pour répondre à une question. Un modèle rend certaines propriétés ou relations explicites et en laisse d’autres de côté ; il ne reproduit pas tout son objet.",
+      "pages": "28",
+      "lesson": "classer"
+    },
+    {
+      "id": "dimension",
+      "term": "Dimension",
+      "definition": "Aspect qui peut varier selon des degrés, plutôt que relever seulement d’une présence ou d’une absence. Une description dimensionnelle ne décide pas à elle seule du seuil pertinent pour une action clinique.",
+      "pages": "24–25 et 34–35",
+      "lesson": "classer"
+    },
+    {
+      "id": "stadification",
+      "term": "Stadification",
+      "definition": "Description d’étapes possibles au cours de l’évolution d’un trouble. Elle met le temps au premier plan, sans que toute trajectoire doive passer par les mêmes stades ni suivre une aggravation inévitable.",
+      "pages": "29–31",
+      "lesson": "classer"
+    },
+    {
+      "id": "hitop",
+      "term": "HiTOP",
+      "definition": "Hierarchical Taxonomy of Psychopathology : une organisation en groupes emboîtés des manifestations des troubles psychiques. Elle organise des dimensions en niveaux emboîtés à partir de leurs régularités statistiques, des symptômes aux ensembles plus larges.",
+      "pages": "31–33",
+      "lesson": "classer"
+    },
+    {
+      "id": "rdoc",
+      "term": "RDoC",
+      "definition": "Research Domain Criteria : cadre de recherche étudiant des fonctions et leurs variations à plusieurs échelles, au-delà des seules catégories diagnostiques. Ce n’est pas un guide de diagnostic clinique.",
+      "pages": "34–35",
+      "lesson": "classer"
+    },
+    {
+      "id": "dsm",
+      "term": "DSM",
+      "definition": "Manuel diagnostique et statistique des troubles mentaux, publié par l’Association américaine de psychiatrie. Il propose des catégories et des critères pour organiser des descriptions diagnostiques. Un nom de catégorie n’explique pas à lui seul une situation.",
+      "pages": "14 et 21–27",
+      "lesson": "classer"
+    },
+    {
+      "id": "cim",
+      "term": "CIM",
+      "definition": "Classification internationale des maladies, publiée par l’Organisation mondiale de la santé. Elle comprend les troubles mentaux parmi les domaines de la santé qu’elle classe et fournit un langage commun à plusieurs usages.",
+      "pages": "21–22",
+      "lesson": "classer"
+    },
+    {
+      "id": "multimorbidite",
+      "term": "Multimorbidité",
+      "definition": "Coexistence de plusieurs problèmes de santé, considérés sans les organiser nécessairement autour d’un trouble principal. L’attention porte sur la personne, ses besoins et les interactions entre difficultés.",
+      "pages": "33–34",
+      "lesson": "classer"
+    },
+    {
+      "id": "pluralisme",
+      "term": "Pluralisme",
+      "definition": "Position qui reconnaît plusieurs approches pertinentes. Le livre distingue leur coexistence et les tentatives d’intégration, puis demande comment elles peuvent réellement dialoguer sans effacer le vécu.",
+      "pages": "39–49",
+      "lesson": "pluralisme"
+    },
+    {
+      "id": "biopsychosocial",
+      "term": "Biopsychosocial",
+      "definition": "Qualifie une approche tenant compte du biologique, du psychologique et du social. Le livre rappelle que mentionner ces trois domaines ne suffit pas à expliquer leurs relations ou à leur donner un poids effectif dans le soin.",
+      "pages": "39–41",
+      "lesson": "pluralisme"
+    },
+    {
+      "id": "epistemologie",
+      "term": "Épistémologie",
+      "definition": "Réflexion sur la production et la justification des connaissances. Elle interroge notamment les preuves, les méthodes, les présupposés et les limites d’une explication.",
+      "pages": "39–49 et 81–82",
+      "lesson": "pluralisme"
+    },
+    {
+      "id": "phenomenologie",
+      "term": "Phénoménologie",
+      "definition": "Approche attentive à l’expérience telle qu’elle est vécue : ce qu’une situation fait au rapport au corps, au temps, aux autres et au monde. Elle ne se confond pas avec l’observation extérieure.",
+      "pages": "47 et 77–82",
+      "lesson": "ecouter"
+    },
+    {
+      "id": "hermeneutique",
+      "term": "Herméneutique",
+      "definition": "Réflexion sur l’interprétation et le sens. En clinique, elle aide à interroger la manière dont les mots, les récits et les manifestations prennent signification.",
+      "pages": "81–82",
+      "lesson": "ecouter"
+    },
+    {
+      "id": "normativite",
+      "term": "Normativité",
+      "definition": "Dimension qui concerne les normes et les valeurs : ce qui compte comme souhaitable, problématique, supportable ou justifiant du soin. Elle intervient aussi dans la manière de décrire le pathologique.",
+      "pages": "77–82",
+      "lesson": "ecouter"
+    },
+    {
+      "id": "concept-epais",
+      "term": "Concept épais",
+      "definition": "Concept qui associe description et évaluation. Le symptôme ne désigne pas seulement un événement : il porte aussi une plainte, un sens ou un préjudice dans une vie.",
+      "pages": "77–78",
+      "lesson": "ecouter"
+    },
+    {
+      "id": "contingence",
+      "term": "Contingence",
+      "definition": "Caractère de ce qui aurait pu être autrement. L’histoire des catégories psychiatriques dépend de connaissances, mais aussi de choix et de contextes qui n’étaient pas les seuls possibles.",
+      "pages": "73–76",
+      "lesson": "ecouter"
+    },
+    {
+      "id": "humilite",
+      "term": "Humilité clinique",
+      "definition": "Reconnaissance active des limites de ses connaissances, catégories et jugements. Le livre en distingue quatre formes : conceptuelle, émotionnelle, relationnelle et réflexive. Elle soutient une pratique qui apprend et se corrige.",
+      "pages": "81–84",
+      "lesson": "ecouter"
+    },
+    {
+      "id": "dependance-chemin",
+      "term": "Dépendance au chemin",
+      "definition": "Manière dont les décisions et investissements passés orientent les possibilités présentes. Une méthode installée peut être favorisée par les formations, les outils et les institutions organisés autour d’elle.",
+      "pages": "44 et 67",
+      "lesson": "pluralisme"
+    },
+    {
+      "id": "precision",
+      "term": "Psychiatrie de précision",
+      "definition": "Ensemble de démarches visant à affiner les profils, les prédictions ou les interventions à l’aide de données. Le livre discute leurs promesses et propose de les évaluer en termes de preuves, d’utilité, d’accès et de contexte.",
+      "pages": "51–71",
+      "lesson": "promesses"
+    },
+    {
+      "id": "biomarqueur",
+      "term": "Biomarqueur",
+      "definition": "Indicateur biologique mesurable utilisé pour étudier un état ou un processus. Son association à une difficulté ne suffit pas à démontrer qu’il permet de choisir un soin utile.",
+      "pages": "55–64",
+      "lesson": "promesses"
+    },
+    {
+      "id": "utilite-clinique",
+      "term": "Utilité clinique",
+      "definition": "Ce qu’un outil apporte réellement à une décision ou à un accompagnement, pour des résultats qui comptent pour la personne. Elle demande une évaluation distincte de la seule performance statistique.",
+      "pages": "59–68",
+      "lesson": "promesses"
+    },
+    {
+      "id": "surmedicalisation",
+      "term": "Surmédicalisation",
+      "definition": "Extension des diagnostics, dépistages ou interventions au-delà de ce qui apporte un bénéfice suffisant. Elle ne se confond pas avec tout recours à la médecine, qui peut permettre reconnaissance et accès au soin.",
+      "pages": "61–62 et 69",
+      "lesson": "promesses"
+    },
+    {
+      "id": "facteur-risque",
+      "term": "Facteur de risque",
+      "definition": "Caractéristique ou exposition associée à une probabilité plus élevée de survenue d’un événement. Un risque n’est ni une certitude ni la preuve que le trouble est déjà commencé.",
+      "pages": "69",
+      "lesson": "promesses"
+    },
+    {
+      "id": "prodrome",
+      "term": "Prodrome",
+      "definition": "Manifestation initiale d’un trouble, dont le caractère annonciateur est souvent reconnu rétrospectivement. Un facteur de risque augmente une probabilité sans être nécessairement une manifestation du trouble.",
+      "pages": "29–30 et 69",
+      "lesson": "promesses"
+    },
+    {
+      "id": "systeme",
+      "term": "Système",
+      "definition": "Ensemble d’éléments dont les relations comptent pour comprendre l’évolution de l’ensemble. Dans le livre, les dimensions cliniques sont aussi reliées au contexte et à l’expérience.",
+      "pages": "78–80 et 89",
+      "lesson": "temps"
+    },
+    {
+      "id": "attracteur",
+      "term": "Attracteur",
+      "definition": "État ou ensemble d’états vers lequel certaines trajectoires d’un système tendent. Dans l’image du paysage, une vallée figure un état stable ; sa stabilité ne signifie pas qu’il est favorable.",
+      "pages": "90–92",
+      "lesson": "temps"
+    },
+    {
+      "id": "non-linearite",
+      "term": "Non-linéarité",
+      "definition": "Relation où un effet ne varie pas simplement en proportion d’une perturbation. Le même changement peut avoir des conséquences différentes selon la configuration du système.",
+      "pages": "89–93",
+      "lesson": "temps"
+    },
+    {
+      "id": "hysteresis",
+      "term": "Hystérésis",
+      "definition": "Dépendance de l’état actuel à l’évolution antérieure du système. Revenir aux mêmes conditions extérieures ne suffit pas nécessairement à retrouver l’état antérieur.",
+      "pages": "92",
+      "lesson": "temps"
+    },
+    {
+      "id": "multistabilite",
+      "term": "Multistabilité",
+      "definition": "Possibilité, pour un même système, de se maintenir dans plusieurs configurations distinctes. Le paysage à plusieurs vallées en donne une image pédagogique.",
+      "pages": "92",
+      "lesson": "temps"
+    },
+    {
+      "id": "bifurcation",
+      "term": "Bifurcation",
+      "definition": "Changement qualitatif des possibilités d’évolution d’un système lorsqu’un paramètre varie. Le terme a un sens mathématique ; sa traduction clinique doit être justifiée.",
+      "pages": "91–93",
+      "lesson": "temps"
+    },
+    {
+      "id": "longitudinal",
+      "term": "Données longitudinales",
+      "definition": "Observations répétées au fil du temps. Elles permettent d’étudier une évolution, à la différence d’une comparaison de plusieurs personnes à un seul moment.",
+      "pages": "93 et 102–103",
+      "lesson": "temps"
+    },
+    {
+      "id": "centralite",
+      "term": "Centralité",
+      "definition": "Famille de mesures décrivant la place d’un élément dans un réseau. Un symptôme très connecté n’est pas nécessairement la première cible de soin ni la priorité de la personne.",
+      "pages": "100 et 104–105",
+      "lesson": "reseaux"
+    },
+    {
+      "id": "anhedonie",
+      "term": "Anhédonie",
+      "definition": "Diminution de la capacité à éprouver du plaisir. La description de cette expérience demande aussi de comprendre quelles activités, relations ou significations sont affectées.",
+      "pages": "47 et 100",
+      "lesson": "reseaux"
+    },
+    {
+      "id": "variable-latente",
+      "term": "Variable latente",
+      "definition": "Variable non directement observée, introduite pour expliquer des observations. L’hypothèse d’une cause commune des symptômes se distingue de l’hypothèse de leurs influences mutuelles.",
+      "pages": "99–100",
+      "lesson": "reseaux"
+    },
+    {
+      "id": "idiographique",
+      "term": "Idiographique",
+      "definition": "Qualifie l’étude d’une configuration singulière, notamment à partir des observations répétées d’une personne. Elle se distingue de la recherche de régularités à l’échelle d’un groupe.",
+      "pages": "100–103",
+      "lesson": "reseaux"
+    },
+    {
+      "id": "nomothetique",
+      "term": "Nomothétique",
+      "definition": "Qualifie la recherche de structures ou régularités à partir de plusieurs personnes. Un réseau construit à cette échelle ne se transfère pas automatiquement à chaque individu.",
+      "pages": "100–103",
+      "lesson": "reseaux"
+    },
+    {
+      "id": "pecan",
+      "term": "PECAN",
+      "definition": "Perceived Causal Networks : réseaux représentant des relations causales telles qu’une personne les perçoit. Ils donnent place à son interprétation, sans établir à eux seuls une causalité démontrée.",
+      "pages": "100",
+      "lesson": "reseaux"
+    },
+    {
+      "id": "codage-predictif",
+      "term": "Codage prédictif",
+      "definition": "Famille de modèles selon lesquels les attentes et les informations reçues participent à la perception et à l’apprentissage. Le livre en examine l’intérêt et les limites sans en faire une explication totale de la vie mentale.",
+      "pages": "107–116",
+      "lesson": "prediction"
+    },
+    {
+      "id": "inference",
+      "term": "Inférence",
+      "definition": "Manière de tirer une conclusion à partir d’informations disponibles. Dans un modèle de perception, elle peut désigner un processus qui n’est pas conscient.",
+      "pages": "108–111",
+      "lesson": "prediction"
+    },
+    {
+      "id": "bayesien",
+      "term": "Bayésien",
+      "definition": "Qualifie un calcul de probabilités qui permet de réviser une estimation à la lumière d’une information nouvelle. Cela n’implique pas un calcul conscient de la part de la personne.",
+      "pages": "108–110",
+      "lesson": "prediction"
+    },
+    {
+      "id": "erreur-prediction",
+      "term": "Erreur de prédiction",
+      "definition": "Écart entre une information attendue et une information reçue. Dans ces modèles, une erreur n’est pas une faute : elle peut contribuer à la révision d’une attente.",
+      "pages": "110",
+      "lesson": "prediction"
+    },
+    {
+      "id": "precision-predictive",
+      "term": "Précision prédictive",
+      "definition": "Confiance, ou poids, attribué à une attente ou à une information dans le modèle. Elle se distingue de l’exactitude réelle de la croyance et de l’expression « psychiatrie de précision ».",
+      "pages": "110",
+      "lesson": "prediction"
+    },
+    {
+      "id": "inference-active",
+      "term": "Inférence active",
+      "definition": "Approche qui inclut les actions modifiant les informations reçues et la relation avec l’environnement. Se déplacer pour mieux voir en donne une illustration simple, sans épuiser le modèle.",
+      "pages": "111",
+      "lesson": "prediction"
+    },
+    {
+      "id": "interoception",
+      "term": "Intéroception",
+      "definition": "Perception des signaux internes du corps, par exemple cardiaques ou respiratoires. Le chapitre VII examine les liens possibles entre ces signaux, les attentes et l’expérience émotionnelle.",
+      "pages": "113–114",
+      "lesson": "prediction"
+    },
+    {
+      "id": "energie-libre",
+      "term": "Énergie libre",
+      "definition": "Dans les modèles prédictifs, quantité mathématique liée à l’ajustement d’une représentation aux informations. Il ne s’agit ni d’une énergie ressentie, ni d’une réserve de motivation, ni d’une dépense calorique.",
+      "pages": "111 et 115",
+      "lesson": "prediction"
+    },
+    {
+      "id": "heuristique",
+      "term": "Heuristique",
+      "definition": "Stratégie ou raccourci de raisonnement permettant d’avancer sans examiner toutes les possibilités. Elle peut être utile, mais ses conditions d’emploi et ses limites doivent être discutées.",
+      "pages": "118",
+      "lesson": "raisonnement"
+    },
+    {
+      "id": "granularite",
+      "term": "Granularité",
+      "definition": "Niveau de détail retenu dans la description d’une information. Une description plus fine n’est pas toujours plus utile : la précision nécessaire dépend de la question posée.",
+      "pages": "121–122",
+      "lesson": "raisonnement"
+    },
+    {
+      "id": "jumeau",
+      "term": "Jumeau numérique",
+      "definition": "Représentation numérique individualisée et évolutive visant notamment à explorer des scénarios. Le livre discute ce projet et ses limites ; il ne s’agit pas d’une copie complète et validée de la personne.",
+      "pages": "125–126",
+      "lesson": "raisonnement"
+    },
+    {
+      "id": "sante-publique",
+      "term": "Santé mentale publique",
+      "definition": "Approche qui étudie la santé mentale à l’échelle des populations et des conditions collectives, notamment les déterminants sociaux, la prévention, les droits et les possibilités de rétablissement.",
+      "pages": "132",
+      "lesson": "mondes"
+    },
+    {
+      "id": "transculturel",
+      "term": "Psychiatrie transculturelle",
+      "definition": "Approche attentive aux contextes de sens dans lesquels la souffrance est exprimée et comprise. Elle s’intéresse aux appartenances, aux langues, aux migrations et aux circulations culturelles.",
+      "pages": "132",
+      "lesson": "mondes"
+    },
+    {
+      "id": "exposomique",
+      "term": "Exposomique",
+      "definition": "Étude des expositions rencontrées au cours de la vie et de leurs interactions : facteurs physiques et sociaux, pollution, précarité, traumatismes ou alimentation, par exemple.",
+      "pages": "132",
+      "lesson": "mondes"
+    },
+    {
+      "id": "one-health",
+      "term": "One Health",
+      "definition": "Cadre qui relie santé humaine, animale et écosystémique. La conclusion l’utilise pour ouvrir la réflexion sur les manières de cohabiter avec les autres vivants.",
+      "pages": "133",
+      "lesson": "mondes"
+    }
+  ]
+}

@@ -1,60 +1,57 @@
 # Classer la folie ?
 
-Site de découverte de la philosophie de la psychiatrie à partir de l’ouvrage de Christophe Gauld, **Classer la folie ? Une philosophie de la psychiatrie pour le soin**, préface de Bruno Falissard, Hermann, 2026.
+Présentation clinique et scientifique de l’ouvrage de Christophe Gauld, **Classer la folie ? Une philosophie de la psychiatrie pour le soin**, préface de Bruno Falissard, Hermann, 2026.
 
 **Site : https://christophegauld.github.io/classer-la-folie/**
 
-Le parcours commence par l’expérience vécue et le symptôme, puis explore les classifications, le pluralisme et les promesses de précision. La deuxième partie développe les systèmes dynamiques, les réseaux, le codage prédictif et le raisonnement clinique en dialogue avec l’IA. La dernière étape reprend l’ouverture sociale, culturelle et environnementale de la conclusion.
+La structure suit le livre : introduction, huit chapitres répartis en deux parties, conclusion. Les textes présentent les classifications, les pluralismes, la psychiatrie de précision, la sémiologie, les systèmes dynamiques, les réseaux de symptômes, le codage prédictif et le raisonnement clinique en relation avec l’intelligence artificielle.
 
-## Contenu
+## Contenu éditorial
 
-- Neuf articles pédagogiques, environ 7 500 mots
-- 56 définitions, consultables dans le lexique et depuis les textes
-- Quatre parcours : découverte, internes, professionnels de santé, journalistes
-- Citations du livre avec pages, et correspondance des chapitres sur la page Sources
-- Comparaison de quatre approches et quatre explorations pédagogiques
-- Recherche locale dans les textes et définitions, progression enregistrée sur l’appareil
-- Pages lisibles sur mobile et imprimables
+- Dix textes de présentation, environ 7 400 mots
+- 56 définitions, accessibles dans le lexique et depuis les chapitres
+- Citations littérales avec pagination
+- Tableau des quatre formes d’humilité clinique reproduit d’après la page 83
+- Références par chapitre et sélection bibliographique
+- Liens vers la fiche des éditions Hermann et l’achat sur Amazon
 
-Les textes sont des adaptations pédagogiques. Les extraits littéraux sont distincts et paginés. Les modèles interactifs sont fictifs ou conceptuels, avec leurs hypothèses explicites. Le manuscrit intégral et les notes de lecture de travail ne sont pas inclus.
+Les textes hors citations sont des reformulations pédagogiques. Les exemples cliniques proviennent de l’ouvrage. Le site ne propose pas de graphiques ou de simulations ajoutés. Le manuscrit intégral et les notes de lecture de travail ne sont pas inclus.
 
-## Modifier les textes
+## Fonctionnement
 
-1. Modifier `scripts/content.py` pour les articles et le lexique
-2. Modifier `scripts/build.py` pour l’accueil, les parcours, le livre, les sources et la structure des pages
-3. Modifier `scripts/labs.py` pour le texte et la structure des explorations
-4. Lancer `python3 scripts/build.py`, puis `python3 scripts/validate.py`
+HTML statique, CSS et JavaScript, sans dépendance applicative. Les textes sont accessibles sans JavaScript. La recherche, les définitions contextuelles et le filtrage du lexique fonctionnent dans le navigateur. Une indication de lecture peut être enregistrée sur l’appareil et effacée depuis le sommaire.
 
-Le dossier `site/` contient le site généré. Éviter de modifier directement ses fichiers HTML : ils seront régénérés. Les fichiers CSS et JavaScript dans `site/assets/` sont les sources et peuvent être modifiés directement.
+Le site s’adapte aux petits écrans et possède une feuille de style d’impression. Les anciennes adresses `explorer.html` et `parcours.html` affichent le sommaire pour conserver l’accès depuis les liens déjà publiés.
 
-## Voir le site localement
+## Modifier le site
+
+1. Modifier `scripts/content.json` pour les chapitres et les définitions
+2. Modifier `scripts/references.json` pour la sélection bibliographique
+3. Modifier `scripts/build.py` pour les pages de présentation et la structure HTML
+4. Modifier `site/assets/style.css` ou `site/assets/app.js` pour la présentation et les interactions
+5. Lancer `python3 scripts/build.py`, puis `python3 scripts/validate.py`
+
+`scripts/content.py` charge le contenu JSON. Les fichiers HTML dans `site/` sont générés ; ne pas les modifier directement.
+
+## Vérification locale
 
 ```sh
 python3 scripts/build.py
 python3 scripts/validate.py
+node --check site/assets/app.js
 python3 -m http.server 8000 --directory site
 ```
 
-Ouvrir `http://localhost:8000`. Le générateur utilise uniquement la bibliothèque standard de Python, sans installation de paquets. Le site fonctionne avec des fichiers HTML, CSS et JavaScript, sans serveur applicatif ni base de données.
+Ouvrir `http://localhost:8000`. Le générateur utilise la bibliothèque standard de Python. Le validateur contrôle les liens, ancres, ressources, identifiants, titres et balises de définition. Toute modification d’une citation doit être contrôlée contre la page correspondante du livre.
 
 ## Publication
 
-GitHub Pages est configuré pour GitHub Actions. Le workflow `.github/workflows/pages.yml` régénère le site, vérifie ses liens internes et publie le dossier `site/` après chaque modification de la branche `main`. Il peut également être lancé manuellement depuis l’onglet Actions.
+Le workflow `.github/workflows/pages.yml` reconstruit et vérifie le site avant de le publier sur GitHub Pages après chaque modification de `main`. Il peut aussi être lancé depuis l’onglet Actions.
 
-Pour changer de dépôt ou de domaine, modifier `ORIGIN` et `REPO` dans `scripts/build.py`, puis reconstruire. Les liens de navigation sont relatifs et compatibles avec une publication dans un sous-répertoire GitHub Pages.
-
-## Vérifications
-
-- Citations contrôlées contre le texte fourni, avec normalisation des seules césures et espaces de composition
-- Vérification automatique des liens, ancres, ressources, identifiants et titres
-- Recherche, définitions, progression et explorations testées dans le navigateur
-- Absence de débordement horizontal vérifiée à 320 pixels sur les quinze pages
-- Mise à jour bayésienne et deux bassins d’attraction vérifiés avec leurs hypothèses
-
-Les contrôles de structure s’exécutent avec `python3 scripts/validate.py`. Les citations restent à vérifier éditorialement en cas de modification de leur texte ou de leur pagination.
+Pour changer de dépôt ou de domaine, modifier `ORIGIN` et `REPO` dans `scripts/build.py`, puis reconstruire. La navigation relative fonctionne dans un sous-répertoire GitHub Pages.
 
 ## Confidentialité et droits
 
-Aucun suivi d’audience, formulaire, compte utilisateur ou appel à une IA. La recherche et les explorations fonctionnent dans le navigateur. La progression utilise seulement `localStorage` et peut être effacée depuis la page Explorer. GitHub Pages assure l’hébergement.
+Aucun suivi d’audience, formulaire, compte utilisateur ou appel à une IA. L’état de lecture utilise uniquement `localStorage`. GitHub Pages assure l’hébergement.
 
-Les citations renvoient à l’ouvrage © Hermann Éditeurs, 2026. La publication des sources ne leur attribue pas automatiquement une licence libre. La police Literata est distribuée sous licence SIL Open Font License, incluse dans `site/assets/FONT-LICENSE.txt`. Les schémas et la composition typographique du livre ont été créés pour ce site ; cette dernière n’est pas la couverture éditoriale.
+Ouvrage et citations : Christophe Gauld, © Hermann Éditeurs, 2026. Préface : Bruno Falissard. La publication des fichiers du site ne leur attribue pas automatiquement une licence libre. La typographie utilise les polices système Arial/Helvetica.
